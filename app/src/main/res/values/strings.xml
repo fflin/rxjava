@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">rxjava</string>
+    <string name="studysimple">上下游初体验</string>
+    <string name="studyChain">链式编程初体验</string>
+    <string name="threadChange">线程切换</string>
+    <string name="map">map</string>
+    <string name="flatmap">flatMap</string>
 </resources>
